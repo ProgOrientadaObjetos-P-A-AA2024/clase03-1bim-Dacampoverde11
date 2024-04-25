@@ -22,8 +22,8 @@ public class Ejecutable02 {
         h3.establecerNombre("Manuel IM");
         /*
         La linea 28 lo que hace es imprimir los datos, a pesar de no tengan 
-        valor ya que al creaa la clase en java les da un valor por defecto y
-        ese es el qu ese mostrara en pantalla
+        valor ya que al crear la clase en java les da un valor por defecto y
+        ese es el que se mostrara en pantalla
         */
         System.out.printf("%s - %d - %.2f\n", h1.obtenerNombre(),
                 h1.obtenerNumeroCamas(), h1.obtenerPresupuesto());
